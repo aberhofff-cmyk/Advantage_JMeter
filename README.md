@@ -197,8 +197,6 @@ advantage_jmeter/
 └── README.md
 ```
 
-Папка `scripts/` в этом архиве отсутствует, поэтому отдельные `run_test.bat` и `run_test.sh` здесь не предусмотрены.
-
 ## Запуск
 
 Команды ниже рассчитаны на Windows PowerShell и выполняются из папки `advantage_jmeter`, где лежит `docker-compose.yml`.
