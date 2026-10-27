@@ -1,0 +1,21 @@
+username,password,email,firstName,lastName,phoneNumber,countryId,city,address,stateProvince,postalCode
+perf_user01,PerfTest123,perf_user01@example.com,Alex,Ivanov,+1-202-555-0101,US,New York,101 Broadway Ave,NY,10001
+perf_user02,PerfTest123,perf_user02@example.com,Maria,Petrova,+1-202-555-0102,US,San Francisco,250 Market St,CA,94105
+perf_user03,PerfTest123,perf_user03@example.com,Dmitry,Smirnov,+1-202-555-0103,US,Chicago,400 Michigan Ave,IL,60611
+perf_user04,PerfTest123,perf_user04@example.com,Elena,Sokolova,+1-202-555-0104,US,Seattle,500 Pine St,WA,98101
+perf_user05,PerfTest123,perf_user05@example.com,Sergey,Popov,+1-202-555-0105,US,Boston,120 Boylston St,MA,02116
+perf_user06,PerfTest123,perf_user06@example.com,Anna,Lebedeva,+1-202-555-0106,US,Austin,305 Congress Ave,TX,78701
+perf_user07,PerfTest123,perf_user07@example.com,Nikita,Kozlov,+1-202-555-0107,US,Denver,700 16th St Mall,CO,80202
+perf_user08,PerfTest123,perf_user08@example.com,Olga,Novikova,+1-202-555-0108,US,Miami,850 Biscayne Blvd,FL,33132
+perf_user09,PerfTest123,perf_user09@example.com,Pavel,Morozov,+1-202-555-0109,US,Atlanta,210 Peachtree St,GA,30303
+perf_user10,PerfTest123,perf_user10@example.com,Tatiana,Volkova,+1-202-555-0110,US,Portland,615 SW Broadway,OR,97205
+perf_user11,PerfTest123,perf_user11@example.com,Maxim,Solovyov,+1-202-555-0111,US,Phoenix,100 N Central Ave,AZ,85004
+perf_user12,PerfTest123,perf_user12@example.com,Ksenia,Vasilieva,+1-202-555-0112,US,San Diego,450 B Street,CA,92101
+perf_user13,PerfTest123,perf_user13@example.com,Andrey,Zaitsev,+1-202-555-0113,US,Dallas,1500 Main St,TX,75201
+perf_user14,PerfTest123,perf_user14@example.com,Yulia,Pavlova,+1-202-555-0114,US,Minneapolis,80 S 8th St,MN,55402
+perf_user15,PerfTest123,perf_user15@example.com,Roman,Semenov,+1-202-555-0115,US,Philadelphia,1400 JFK Blvd,PA,19107
+perf_user16,PerfTest123,perf_user16@example.com,Daria,Golubeva,+1-202-555-0116,US,Charlotte,200 S Tryon St,NC,28202
+perf_user17,PerfTest123,perf_user17@example.com,Ilya,Vinogradov,+1-202-555-0117,US,Nashville,300 Broadway,TN,37201
+perf_user18,PerfTest123,perf_user18@example.com,Victoria,Bogdanova,+1-202-555-0118,US,Salt Lake City,50 E South Temple,UT,84111
+perf_user19,PerfTest123,perf_user19@example.com,Artem,Vorobyov,+1-202-555-0119,US,Raleigh,150 Fayetteville St,NC,27601
+perf_user20,PerfTest123,perf_user20@example.com,Polina,Fedorova,+1-202-555-0120,US,Columbus,100 E Broad St,OH,43215
